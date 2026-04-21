@@ -50,7 +50,7 @@ df['total_usage'] = (
 )
 
 # ==============================
-# 7. Feature Scaling (IMPORTANT FIX)
+# 7. Feature Scaling
 # ==============================
 scaler = StandardScaler()
 
